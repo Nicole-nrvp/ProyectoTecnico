@@ -1,0 +1,45 @@
+#cuenta {
+
+opacity: 0.8;
+	margin: auto;
+	margin-top: 40px;
+	width: 500px;
+	height:  100px;
+	background-color:#F4F6F6;
+	border: 1px solid #000;
+	border-radius: 8%;
+
+}
+
+#fftt{
+	opacity: 0.9;
+	margin: auto;
+	margin-top: 40px;
+	width: 600px;
+	height: 600px;
+	background-color:#F4ECF7 ;
+	border: 1px solid #ccc;
+	border-radius: 7%;
+	background-position: center;
+	
+
+}
+
+h1 {
+
+	color:#808B96;
+ 
+}
+
+#fftt {
+	opacity: 0.9;
+	margin: auto;
+	margin-top: 40px;
+	width: 300px;
+	height: 90px;
+	background-color:#F4ECF7 ;
+	border: 1px solid #ccc;
+	border-radius: 7%;
+	background-position: center;
+	
+}

@@ -1,0 +1,105 @@
+body {
+	margin: 0;
+	min-height: 100vh;
+	background-image: url(fonfo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+	 
+	}
+
+
+
+ #logo {
+
+ 	margin: auto;
+ 	margin-top: 40px;
+ 	width:1340px;
+ 	height:140px;
+ 	background-color:#F4ECF7  ;
+ 	opacity: 0.9;
+ 	border: 5px solid #ccc;
+ 	border-radius: 5%;
+ }
+
+
+p {
+
+	margin: auto;
+ 	margin-top: 40px;
+ 	width:250px;
+ 	height:50px;
+ 	background-color:#F4ECF7  ;
+ 	opacity: 0.9;
+ 	border: 5px solid #ccc;
+ 	border-radius: 5%;
+	
+}
+h1 { 
+color:#808B96;
+ }
+
+p{
+	color: #808B96;
+}
+
+	
+
+}
+
+	 
+	 .menu {
+
+	 	opacity: 0.8;
+	margin: auto;
+	margin-top: 40px;
+	width: 300px;
+	height:  200px;
+	background-color:#F4F6F6;
+	border: 1px solid #000;
+	border-radius: 8%;
+	float: left;
+		
+    
+
+	 }
+
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float left;
+}
+
+.menu ul li a{
+text-decoration: none;
+float left;
+}
+.usuario1{
+	width: 600px;
+	height: 950px;
+	border-radius: 7%;
+	background-color: #F4ECF7;
+	opacity: 0.9; 
+	box-shadow: 0 0 100px #F4ECF7;
+
+
+}
+[type="submit"]{
+	margin: 10px;
+	width: 150px;
+	background-color: #F4ECF7;
+	opacity: 0.8;
+
+}
+
+
+.usuario1
+[type="text"]{
+	border: none;
+	background-color: transparent; 
+	border-bottom: 2px solid #000;
+	outline: none;
+
+}

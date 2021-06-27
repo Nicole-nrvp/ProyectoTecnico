@@ -1,0 +1,38 @@
+<?php
+class VehiculoVisita{
+	private $placa_vehiculo;
+	private $id_regvisita;	
+
+
+	public function getPlaca(){
+		return $this->placa;
+	}
+
+	public function setPlaca($placvehiculo){
+		$this->placa=$placvehiculo;
+	}
+
+
+	public function getIdRegvisita(){
+		return $this->id_regvisita;
+	}
+
+	public function setIdRegvisita($idrevisi){
+		$this->id_regvisita=$idrevisi;
+	}
+//Metodos........
+		public function registrarVehiculoVisita(){
+
+		}
+		public function consultarVehiculoVisita(){
+
+		}
+		public function modificarVehiculoVisita(){
+
+		}
+		public function inhabilitarVehiculoVisita(){
+
+		}
+
+}
+?>
